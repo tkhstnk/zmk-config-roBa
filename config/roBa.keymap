@@ -73,7 +73,7 @@
 &lt_to_layer_0 6 LANG2  &kp LEFT_WIN  &kp LEFT_ALT  &mt LCTRL TAB  &lt 1 SPACE  &kp DEL         &kp BACKSPACE  &lt 2 ENTER                                &lt 5 LANG1
             >;
 
-            sensor-bindings = <&inc_dec_kp K_SCROLL_DOWN K_SCROLL_UP>;
+            sensor-bindings = <&inc_dec_kp A B>;
         };
 
         SYMBOLS {
