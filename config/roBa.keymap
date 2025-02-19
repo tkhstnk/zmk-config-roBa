@@ -10,8 +10,12 @@
 #define NUM 6
 
 &mt {
-    flavor = "balanced";
-    quick-tap-ms = <0>;
+    flavor = "hold-preffered";
+    quick-tap-ms = <200>;
+};
+&lt {
+    flavor = "hold-preffered";
+    quick-tap-ms = <200>;
 };
 
 / {
